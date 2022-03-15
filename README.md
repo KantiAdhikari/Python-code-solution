@@ -7,7 +7,6 @@ My solutions for the projects included in the Python course by <a href="https://
 
 ## Contents
 
-* Day 1 - [Working with Variables in Python to Manage Data](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%201)
 
 <p align="center">
 Please ⭐ this repository if you loved it !
