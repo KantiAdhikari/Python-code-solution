@@ -10,9 +10,3 @@ for score in student_scores:
  if score > highest_score:
   highest_score=score
 print(f"The highest score in the class is {highest_score}")
-
-lowest_score=0
-for score in student_scores:
- if score >= lowest_score:
-  lowest_score=score
-print(f"The lowest score in the class is {lowest_score}")
