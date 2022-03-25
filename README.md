@@ -11,7 +11,7 @@ My solutions for the projects included in the Python course by <a href="https://
 * Day 3 - [Control Flow and Logical Operators](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%203)
 * Day 4 - [Randomisation and Python Lists](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%204)
 * Day 5 - [Python Loops](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%205)
-* Day 6 - [Python Function](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%206)
+* Day 6 - [Python Functions](https://github.com/KantiAdhikari/Python-code-solution/tree/main/Day%206)
 <p align="center">
 Please ⭐ this repository if you loved it !
 <br>
